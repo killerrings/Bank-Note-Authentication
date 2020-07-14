@@ -11,4 +11,4 @@
 
 • A glimpse of the web app: <br>
 
-<img src="/demo.gif" width="898" height="394.27"/>
+<img src="/demo.gif" width="898" height="450"/>
